@@ -1,21 +1,21 @@
-# @philiprehberger/color-kit
+# @philiprehberger/ts-color-kit
 
-[![CI](https://github.com/philiprehberger/color-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/color-kit/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/color-kit.svg)](https://www.npmjs.com/package/@philiprehberger/color-kit)
-[![License](https://img.shields.io/github/license/philiprehberger/color-kit)](LICENSE)
+[![CI](https://github.com/philiprehberger/ts-color-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-color-kit/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-color-kit.svg)](https://www.npmjs.com/package/@philiprehberger/ts-color-kit)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-color-kit)](LICENSE)
 
 Lightweight color parsing, conversion, and manipulation.
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/color-kit
+npm install @philiprehberger/ts-color-kit
 ```
 
 ## Usage
 
 ```ts
-import { color } from '@philiprehberger/color-kit';
+import { color } from '@philiprehberger/ts-color-kit';
 
 const c = color('#3b82f6');
 c.lighten(20).toHex();       // lighter blue
