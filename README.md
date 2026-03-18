@@ -1,21 +1,21 @@
-# @philiprehberger/ts-color-kit
+# @philiprehberger/color-kit
 
 [![CI](https://github.com/philiprehberger/ts-color-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-color-kit/actions/workflows/publish.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-color-kit.svg)](https://www.npmjs.com/package/@philiprehberger/ts-color-kit)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/color-kit.svg)](https://www.npmjs.com/package/@philiprehberger/color-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-color-kit)](LICENSE)
 
-Lightweight color parsing, conversion, and manipulation.
+Lightweight color parsing, conversion, and manipulation
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-color-kit
+npm install @philiprehberger/color-kit
 ```
 
 ## Usage
 
 ```ts
-import { color } from '@philiprehberger/ts-color-kit';
+import { color } from '@philiprehberger/color-kit';
 
 const c = color('#3b82f6');
 c.lighten(20).toHex();       // lighter blue
