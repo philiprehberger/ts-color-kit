@@ -1,6 +1,6 @@
 # @philiprehberger/color-kit
 
-[![CI](https://github.com/philiprehberger/ts-color-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-color-kit/actions/workflows/publish.yml)
+[![CI](https://github.com/philiprehberger/ts-color-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-color-kit/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/color-kit.svg)](https://www.npmjs.com/package/@philiprehberger/color-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-color-kit)](LICENSE)
 
