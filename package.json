@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/color-kit",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Lightweight color parsing, conversion, and manipulation",
   "type": "module",
   "main": "./dist/index.cjs",
