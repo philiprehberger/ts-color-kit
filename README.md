@@ -1,8 +1,8 @@
 # @philiprehberger/color-kit
 
-[![CI](https://github.com/philiprehberger/color-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/color-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-color-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-color-kit/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/color-kit.svg)](https://www.npmjs.com/package/@philiprehberger/color-kit)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/color-kit)](https://github.com/philiprehberger/color-kit/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-color-kit)](https://github.com/philiprehberger/ts-color-kit/commits/main)
 
 Lightweight color parsing, conversion, and manipulation
 
@@ -59,11 +59,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/color-kit)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-color-kit)
 
-🐛 [Report issues](https://github.com/philiprehberger/color-kit/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-color-kit/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/color-kit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-color-kit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
